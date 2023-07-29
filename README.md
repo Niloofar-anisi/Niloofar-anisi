@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Niloofar-anisi](https://github.com/Niloofar-anisi)
 
-- 💬 Ask me about **Html5,Css3,scss**
+- 💬 Ask me about **Html5,Css3,scss,bootstrap,tailwind**
 
 - 📫 How to reach me **n.anisi@yahoo.com**
 
